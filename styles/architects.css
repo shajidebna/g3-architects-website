@@ -221,6 +221,9 @@
       margin-top: 20px;
       margin-left: 20px;
     }
+    .footer {
+      padding: 20px;
+    }
   }
   
   /* medium size device */
@@ -240,5 +243,8 @@
     #expericne-badge {
       margin-top: 20px;
       margin-left: 20px;
+    }
+    .footer {
+      padding: 50px;
     }
   }
