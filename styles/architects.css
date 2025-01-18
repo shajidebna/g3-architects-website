@@ -122,9 +122,6 @@
     margin-bottom: 20px;
     border-radius: 8px;
   }
-  .featured-architect {
-    width: 100%;
-  }
   #expericne-badge {
     padding: 45px 42px;
     font-weight: 500;
@@ -135,6 +132,9 @@
   #experience-year {
     font-weight: 700;
     font-size: 4rem;
+  }
+  .featured-architect img {
+    width: 100%;
   }
 
   /* some facts related styles */
@@ -219,7 +219,7 @@
     }
     #expericne-badge {
       margin-top: 20px;
-      margin-left: 20px;
+      margin-left: 32px;
     }
     .footer {
       padding: 20px;
